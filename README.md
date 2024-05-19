@@ -1,3 +1,9 @@
+# Archival notice
+
+We at SkinsRestorer do currently not have the time to keep up development of SkinSystem. As stated below, if a developer wants to take over maintenance of SkinSystem, they can contact us over Discord.
+
+---
+
 # Searching a new maintainer!
 SkinSystem is currently searching for a new maintainer of the project. Currently the team does not have the capacity to work on this PHP project. If you have experience in PHP, understand the code of this project and are willing to fix bugs and add new features then please contact us via discord!
 
